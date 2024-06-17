@@ -1,0 +1,6 @@
+c:\users\habacuc letelepathe\documents\visual studio 2012\Projects\ALgo_du_Kaprekar\ALgo_du_Kaprekar\bin\Debug\ALgo_du_Kaprekar.exe.config
+c:\users\habacuc letelepathe\documents\visual studio 2012\Projects\ALgo_du_Kaprekar\ALgo_du_Kaprekar\bin\Debug\ALgo_du_Kaprekar.exe
+c:\users\habacuc letelepathe\documents\visual studio 2012\Projects\ALgo_du_Kaprekar\ALgo_du_Kaprekar\bin\Debug\ALgo_du_Kaprekar.pdb
+c:\users\habacuc letelepathe\documents\visual studio 2012\Projects\ALgo_du_Kaprekar\ALgo_du_Kaprekar\obj\Debug\ALgo_du_Kaprekar.csprojResolveAssemblyReference.cache
+c:\users\habacuc letelepathe\documents\visual studio 2012\Projects\ALgo_du_Kaprekar\ALgo_du_Kaprekar\obj\Debug\ALgo_du_Kaprekar.exe
+c:\users\habacuc letelepathe\documents\visual studio 2012\Projects\ALgo_du_Kaprekar\ALgo_du_Kaprekar\obj\Debug\ALgo_du_Kaprekar.pdb
